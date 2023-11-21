@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+/* frozen_string_literal: true
 
 require "action_view"
 require "action_controller/log_subscriber"
@@ -255,4 +255,4 @@ module ActionController
     ActiveSupport.run_load_hooks(:action_controller_base, self)
     ActiveSupport.run_load_hooks(:action_controller, self)
   end
-end
+end */
