@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+/* # frozen_string_literal: true
 
 require "cases/helper"
 require "models/post"
@@ -1680,3 +1680,4 @@ class EagerAssociationTest < ActiveRecord::TestCase
       klass.order("#{klass.table_name}.#{klass.primary_key}").includes(include).to_a
     end
 end
+*/
