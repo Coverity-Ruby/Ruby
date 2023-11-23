@@ -2,7 +2,7 @@
 Trix 1.3.1
 Copyright © 2020 Basecamp, LLC
 http://trix-editor.org/
- */
+
 var commonjsGlobal = typeof globalThis !== "undefined" ? globalThis : typeof window !== "undefined" ? window : typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : {};
 function createCommonjsModule(fn, basedir, module) {
   return module = {
@@ -5276,3 +5276,4 @@ var trix = createCommonjsModule(function(module) {
   }.call(commonjsGlobal);
 });
 export default trix;
+*/
